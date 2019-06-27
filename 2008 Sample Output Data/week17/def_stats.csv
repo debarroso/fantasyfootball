@@ -1,0 +1,33 @@
+team,opp,opp_pts,opp_pass_yards,opp_rush_yards,def_align,after_bye,dline_pass,dline_rush,opp_oline_pass,opp_oline_rush,gametime,gameday,roof,surface,temp,rel_hum,wind,wind_chill,def_pass_rank,def_rush_rank,opp_pass_rank,opp_rush_rank,sacks,forced_fumbles,interceptions,tds,tackles,time_onfield
+crd,sea,21,243,87,4-3,False,24,17,22,27,16:15,Sunday,retractable roof (closed),grass,,,,,26,13,29,19,2.0,4,3,0,92,32.266666666666666
+atl,ram,27,206,202,4-3,False,10,19,23,29,13:02,Sunday,dome,fieldturf,,,,,17,25,26,25,4.0,1,2,0,93,35.21666666666667
+rav,jax,7,127,118,3-4,False,15,1,24,12,16:16,Sunday,outdoors,sportturf,62,60,,0,2,1,15,18,4.0,2,2,0,98,27.966666666666665
+buf,nwe,13,73,168,4-3,False,28,8,26,3,13:02,Sunday,outdoors,astroplay,39,74,,26,22,21,12,6,3.0,1,0,0,98,32.0
+car,nor,31,367,50,4-3,False,5,24,2,5,13:03,Sunday,dome,fieldturf,,,,,8,24,1,28,3.0,1,1,1,94,23.083333333333332
+chi,htx,31,328,127,4-3,False,27,2,16,10,13:03,Sunday,retractable roof (open),grass,,,,,9,5,4,13,2.0,3,0,0,90,37.56666666666667
+cin,kan,6,189,31,4-3,False,31,12,21,28,13:02,Sunday,outdoors,fieldturf,43,56,17,,19,8,20,16,2.0,1,0,0,67,22.35
+cle,pit,31,193,176,3-4,False,30,31,29,26,13:02,Sunday,outdoors,dessograss,48,50,22,,16,23,17,23,3.0,1,3,1,74,33.333333333333336
+dal,phi,44,166,137,3-4,False,1,14,6,13,16:15,Sunday,outdoors,grass,62,68,,0,11,14,6,22,5.0,5,1,2,79,30.916666666666668
+den,sdg,52,202,289,4-3,False,19,23,17,15,20:23,Sunday,outdoors,grass,58,46,,0,31,29,7,20,2.0,1,2,0,92,36.11666666666667
+det,gnb,31,273,211,4-3,False,11,29,14,19,13:02,Sunday,outdoors,grass,22,71,,10,32,31,8,17,4.0,2,2,0,98,29.966666666666665
+gnb,det,21,220,96,4-3,False,21,28,32,31,13:02,Sunday,outdoors,grass,22,71,,10,7,27,24,30,4.0,2,2,0,98,30.033333333333335
+htx,chi,24,225,69,4-3,False,23,30,11,24,13:03,Sunday,retractable roof (open),grass,,,,,25,30,21,24,2.0,3,0,0,90,22.433333333333334
+clt,oti,0,42,83,4-3,False,22,21,3,20,13:02,Sunday,retractable roof (closed),fieldturf,,,,,12,18,27,7,4.0,2,0,1,84,21.666666666666668
+jax,rav,27,304,127,4-3,False,14,9,20,16,16:16,Sunday,outdoors,sportturf,62,60,,0,29,9,28,4,4.0,2,2,0,98,32.03333333333333
+kan,cin,16,125,204,4-3,False,32,26,27,32,13:02,Sunday,outdoors,fieldturf,43,56,17,,28,26,30,29,2.0,1,0,0,67,37.65
+sdg,den,21,316,90,3-4,False,20,25,4,1,20:23,Sunday,outdoors,grass,58,46,,0,20,20,3,12,2.0,1,2,0,92,23.883333333333333
+ram,atl,31,154,263,4-3,False,16,32,5,9,13:02,Sunday,dome,fieldturf,,,,,27,32,14,2,4.0,1,2,0,93,24.783333333333335
+mia,nyj,17,251,80,3-4,False,13,13,19,2,16:17,Sunday,outdoors,fieldturf,65,85,,0,15,19,16,9,1.0,3,3,1,92,26.2
+min,nyg,19,222,135,4-3,False,2,4,10,4,13:05,Sunday,dome,fieldturf,,,,,5,4,18,1,4.0,1,1,0,78,34.31666666666667
+nwe,buf,0,115,161,3-4,False,17,16,25,14,13:02,Sunday,outdoors,astroplay,39,74,,26,24,11,22,14,3.0,1,0,0,98,28.0
+nor,car,33,244,234,4-3,False,25,22,9,7,13:03,Sunday,dome,fieldturf,,,,,23,22,19,3,3.0,1,1,1,94,36.916666666666664
+nyg,min,20,218,110,4-3,False,8,3,28,17,13:05,Sunday,dome,fieldturf,,,,,10,12,25,5,4.0,1,1,0,78,25.683333333333334
+nyj,mia,24,193,126,3-4,False,12,10,12,11,16:17,Sunday,outdoors,fieldturf,65,85,,0,18,7,10,11,1.0,3,3,1,92,33.8
+rai,tam,24,255,125,4-3,False,6,27,18,21,13:02,Sunday,outdoors,grass,77,61,5,,13,28,11,15,2.0,1,2,0,85,28.033333333333335
+phi,dal,6,211,87,4-3,False,4,5,13,18,16:15,Sunday,outdoors,grass,62,68,,0,3,3,9,21,5.0,5,1,2,79,29.083333333333332
+pit,cle,0,20,106,3-4,False,3,7,7,22,13:02,Sunday,outdoors,dessograss,48,50,22,,1,2,31,26,3.0,1,3,1,74,26.666666666666668
+sfo,was,24,143,125,3-4,False,26,11,15,6,16:15,Sunday,outdoors,grass,50,83,,0,21,16,23,8,2.0,3,1,0,87,32.0
+sea,crd,34,346,111,4-3,False,18,18,8,30,16:15,Sunday,retractable roof (closed),grass,,,,,30,17,2,32,2.0,4,3,0,92,27.733333333333334
+tam,rai,31,145,192,4-3,False,7,15,30,25,13:02,Sunday,outdoors,grass,77,61,5,,6,15,32,10,2.0,1,2,0,85,31.966666666666665
+oti,clt,23,269,121,4-3,False,9,6,1,23,13:02,Sunday,retractable roof (closed),fieldturf,,,,,4,6,5,31,4.0,2,0,1,84,38.333333333333336
+was,sfo,27,238,121,4-3,False,29,20,31,8,16:15,Sunday,outdoors,grass,50,83,,0,14,10,13,27,2.0,3,1,0,87,28.0

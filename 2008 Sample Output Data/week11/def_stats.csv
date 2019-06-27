@@ -1,0 +1,33 @@
+team,opp,opp_pts,opp_pass_yards,opp_rush_yards,def_align,after_bye,dline_pass,dline_rush,opp_oline_pass,opp_oline_rush,gametime,gameday,roof,surface,temp,rel_hum,wind,wind_chill,def_pass_rank,def_rush_rank,opp_pass_rank,opp_rush_rank,sacks,forced_fumbles,interceptions,tds,tackles,time_onfield
+crd,sea,20,153,43,4-3,False,24,17,22,27,16:06,Sunday,outdoors,fieldturf,52,85,,0,26,13,29,19,4.0,5,4,0,100,25.916666666666668
+atl,den,24,208,124,4-3,False,10,19,4,1,13:02,Sunday,dome,fieldturf,,,,,17,25,3,12,1.0,0,1,0,91,26.3
+rav,nyg,30,146,207,3-4,False,15,1,10,4,13:02,Sunday,outdoors,fieldturf,49,46,19,,2,1,18,1,2.0,1,3,1,89,30.866666666666667
+buf,cle,29,176,161,4-3,False,28,8,7,22,20:40,Monday,outdoors,astroplay,30,66,,22,22,21,31,26,1.0,1,3,0,84,26.8
+car,det,22,186,130,4-3,False,5,24,32,31,13:03,Sunday,outdoors,grass,54,58,,0,8,24,24,30,3.0,3,2,0,92,34.28333333333333
+chi,gnb,37,227,200,4-3,False,27,2,14,19,13:02,Sunday,outdoors,grass,33,61,,23,9,5,8,17,1.0,0,1,1,88,37.46666666666667
+cin,phi,13,323,68,4-3,True,31,12,6,13,13:03,Sunday,outdoors,fieldturf,38,57,,29,19,8,6,22,10.0,3,3,0,94,33.266666666666666
+cle,buf,27,148,186,3-4,False,30,31,25,14,20:40,Monday,outdoors,astroplay,30,66,,22,16,23,22,14,1.0,1,3,0,84,33.2
+dal,was,10,136,92,3-4,True,1,14,15,6,20:23,Sunday,outdoors,grass,44,46,,0,11,14,23,8,3.0,0,3,0,84,28.766666666666666
+den,atl,20,250,114,4-3,False,19,23,5,9,13:02,Sunday,dome,fieldturf,,,,,31,29,14,2,1.0,0,1,0,91,33.7
+det,car,31,98,264,4-3,False,11,29,9,7,13:03,Sunday,outdoors,grass,54,58,,0,32,31,19,3,3.0,3,2,0,92,25.716666666666665
+gnb,chi,3,151,83,4-3,False,21,28,11,24,13:02,Sunday,outdoors,grass,33,61,,23,7,27,21,24,1.0,0,1,1,88,22.533333333333335
+htx,clt,33,320,154,4-3,False,23,30,1,23,13:02,Sunday,retractable roof (closed),fieldturf,,,,,25,30,5,31,2.0,1,1,0,98,34.25
+clt,htx,27,179,177,4-3,False,22,21,16,10,13:02,Sunday,retractable roof (closed),fieldturf,,,,,12,18,4,13,2.0,1,1,0,98,25.75
+jax,oti,24,230,114,4-3,False,14,9,3,20,16:15,Sunday,outdoors,grass,60,39,,0,29,9,27,7,5.0,1,2,0,89,27.55
+kan,nor,30,266,103,4-3,False,32,26,2,5,13:00,Sunday,outdoors,grass,53,45,,0,28,26,1,28,4.0,1,2,0,92,29.6
+sdg,pit,11,286,124,3-4,False,20,25,29,26,16:16,Sunday,outdoors,dessograss,35,80,,26,20,20,17,23,6.0,1,2,0,96,36.516666666666666
+ram,sfo,35,199,135,4-3,False,16,32,31,8,16:05,Sunday,outdoors,grass,75,50,,0,27,32,13,27,6.0,3,2,0,90,28.266666666666666
+mia,rai,15,129,70,3-4,False,13,13,30,25,13:02,Sunday,outdoors,grass,67,39,,0,15,19,32,10,8.0,1,0,0,88,27.433333333333334
+min,tam,19,255,108,4-3,False,2,4,18,21,13:02,Sunday,outdoors,grass,62,43,10,,5,4,11,15,6.0,3,0,0,98,33.81666666666667
+nwe,nyj,34,235,140,3-4,False,17,16,19,2,20:15,Thursday,outdoors,fieldturf,44,99,6,,24,11,16,9,6.0,2,0,0,117,39.3
+nor,kan,20,206,124,4-3,False,25,22,21,28,13:00,Sunday,outdoors,grass,53,45,,0,23,22,20,16,4.0,1,2,0,92,30.4
+nyg,rav,10,154,121,4-3,False,8,3,20,16,13:02,Sunday,outdoors,fieldturf,49,46,19,,10,12,28,4,2.0,1,3,1,89,29.133333333333333
+nyj,nwe,31,386,125,3-4,False,12,10,26,3,20:15,Thursday,outdoors,fieldturf,44,99,6,,18,7,12,6,6.0,2,0,0,117,28.533333333333335
+rai,mia,17,160,222,4-3,False,6,27,12,11,13:02,Sunday,outdoors,grass,67,39,,0,13,28,10,11,8.0,1,0,0,88,32.56666666666667
+phi,cin,13,226,56,4-3,False,4,5,27,32,13:03,Sunday,outdoors,fieldturf,38,57,,29,3,3,30,29,10.0,3,3,0,94,41.733333333333334
+pit,sdg,10,152,66,3-4,False,3,7,17,15,16:16,Sunday,outdoors,dessograss,35,80,,26,1,2,7,20,6.0,1,2,0,96,23.483333333333334
+sfo,ram,16,280,126,3-4,False,26,11,23,29,16:05,Sunday,outdoors,grass,75,50,,0,21,16,26,25,6.0,3,2,0,90,31.733333333333334
+sea,crd,26,382,76,4-3,False,18,18,8,30,16:06,Sunday,outdoors,fieldturf,52,85,,0,30,17,2,32,4.0,5,4,0,100,34.083333333333336
+tam,min,13,111,99,4-3,True,7,15,28,17,13:02,Sunday,outdoors,grass,62,43,10,,6,15,25,5,6.0,3,0,0,98,26.183333333333334
+oti,jax,14,117,140,4-3,False,9,6,24,12,16:15,Sunday,outdoors,grass,60,39,,0,4,6,15,18,5.0,1,2,0,89,32.45
+was,dal,14,198,117,4-3,True,29,20,13,18,20:23,Sunday,outdoors,grass,44,46,,0,14,10,9,21,3.0,0,3,0,84,31.233333333333334

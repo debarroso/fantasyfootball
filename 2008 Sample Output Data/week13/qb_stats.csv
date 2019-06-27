@@ -1,0 +1,36 @@
+player_id,player,fant_pts,position,height,weight,rookie,team,opp,home,opp_def_align,after_bye,oline_rush,oline_pass,opp_dline_rush,opp_dline_pass,gametime,gameday,roof,surface,temp,rel_hum,wind,wind_chill,off_pass_rank,off_rush_rank,opp_def_pass_rank,opp_def_rush_rank,rush_att,rush_yards,rush_tds,completions,attempts,accuracy,interceptions,fumbles,pass_yards,pass_tds,sacked,qbr
+WarnKu00,Kurt Warner,18.4,QB,74,220,False,crd,phi,False,4-3,False,30,8,5,4,20:16,Thursday,outdoors,grass,41,62,5,,2,32,3,3,0,0,0,21,39,53.84615384615385,3,0,235,3,0,65.7
+RyanMa00,Matt Ryan,16.0,QB,76,217,True,atl,sdg,False,3-4,False,9,5,25,20,16:05,Sunday,outdoors,grass,73,62,,0,14,2,20,20,4,-3,0,17,23,73.91304347826086,0,0,207,2,0,130.2
+FlacJo00,Joe Flacco,20.2,QB,78,232,True,rav,cin,False,4-3,False,16,20,12,31,13:02,Sunday,outdoors,fieldturf,42,93,3,,28,4,19,8,3,15,0,19,29,65.51724137931035,0,1,280,2,2,119.9
+EdwaTr01,Trent Edwards,5.0,QB,76,231,False,buf,sfo,True,3-4,False,14,25,11,26,13:01,Sunday,outdoors,astroplay,38,69,,29,22,14,21,16,3,5,0,10,21,47.61904761904761,0,0,112,0,0,64.0
+LosmJ.00,J.P. Losman,3.7,QB,75,220,False,buf,sfo,True,3-4,False,14,25,11,26,13:01,Sunday,outdoors,astroplay,38,69,,29,22,14,21,16,0,0,0,11,17,64.70588235294117,0,0,93,0,3,78.8
+DelhJa00,Jake Delhomme,13.1,QB,74,215,False,car,gnb,False,4-3,False,7,9,28,21,13:02,Sunday,outdoors,grass,37,75,,30,19,3,7,27,2,0,1,12,17,70.58823529411765,0,0,177,0,2,104.3
+OrtoKy00,Kyle Orton,11.1,QB,76,226,False,chi,min,False,4-3,False,24,11,4,2,20:15,Sunday,dome,fieldturf,,,,,21,24,5,4,0,0,0,11,29,37.93103448275862,3,0,153,2,3,39.1
+FitzRy00,Ryan Fitzpatrick,6.9,QB,74,221,False,cin,rav,True,3-4,False,32,27,1,15,13:02,Sunday,outdoors,fieldturf,42,93,3,,30,29,2,1,3,29,0,12,31,38.70967741935484,0,2,124,0,3,51.0
+AndeDe00,Derek Anderson,4.4,QB,78,229,False,cle,clt,True,4-3,False,22,7,21,22,13:02,Sunday,outdoors,grass,36,90,,27,31,26,12,18,2,5,0,16,26,61.53846153846154,0,1,110,0,3,71.0
+DorsKe00,Ken Dorsey,-1.0,QB,76,218,False,cle,clt,True,4-3,False,22,7,21,22,13:02,Sunday,outdoors,grass,36,90,,27,31,26,12,18,0,0,0,0,3,0.0,1,0,0,0,0,0.0
+RomoTo00,Tony Romo,28.6,QB,74,219,False,dal,sea,True,4-3,False,18,13,18,18,16:29,Thursday,outdoors,fieldturf,69,31,,0,9,21,30,17,2,14,0,22,34,64.70588235294117,1,0,331,3,0,113.7
+CutlJa00,Jay Cutler,24.1,QB,75,225,False,den,nyj,False,3-4,False,1,4,10,12,16:15,Sunday,outdoors,fieldturf,36,89,,29,3,12,18,7,3,-2,0,27,43,62.7906976744186,1,0,357,2,0,94.8
+CulpDa00,Daunte Culpepper,8.4,QB,76,264,False,det,oti,True,4-3,False,31,32,6,9,24:37,Thursday,dome,fieldturf,,,,,24,30,4,6,0,0,0,13,26,50.0,1,0,134,1,2,62.0
+RodgAa00,Aaron Rodgers,29.5,QB,74,223,False,gnb,car,True,4-3,False,19,14,24,5,13:02,Sunday,outdoors,grass,37,75,,30,8,17,8,24,5,26,0,29,45,64.44444444444444,1,0,298,3,2,96.3
+RoseSa00,Sage Rosenfels,11.2,QB,76,222,False,htx,jax,True,4-3,False,10,16,9,14,20:40,Monday,retractable roof (open),grass,,,,,4,13,29,9,2,2,0,14,24,58.333333333333336,1,0,200,1,0,81.9
+MannPe00,Peyton Manning,2.3,QB,77,230,False,clt,cle,False,3-4,False,23,1,31,30,13:02,Sunday,outdoors,grass,36,90,,27,5,31,16,23,3,-2,0,15,21,71.42857142857143,2,1,125,0,0,46.8
+GarrDa00,David Garrard,15.4,QB,73,244,False,jax,htx,False,4-3,False,12,24,30,23,20:40,Monday,retractable roof (open),grass,,,,,15,18,25,30,5,10,0,25,35,71.42857142857143,1,1,287,1,3,93.4
+ThigTy00,Tyler Thigpen,10.3,QB,75,235,False,kan,rai,False,4-3,False,28,21,27,6,16:15,Sunday,outdoors,grass,59,72,,0,20,16,13,28,11,48,0,15,22,68.18181818181817,1,0,162,0,1,70.6
+RivePh00,Philip Rivers,7.3,QB,77,228,False,sdg,atl,True,4-3,False,15,17,19,10,16:05,Sunday,outdoors,grass,73,62,,0,7,20,17,25,4,18,0,17,30,56.666666666666664,0,1,149,0,3,70.0
+BulgMa00,Marc Bulger,3.0,QB,75,215,False,ram,mia,True,3-4,False,29,23,13,13,13:00,Sunday,dome,fieldturf,,,,,26,25,15,19,0,0,0,16,35,45.714285714285715,3,0,149,0,0,22.2
+PennCh01,Chad Pennington,7.6,QB,75,225,False,mia,ram,False,4-3,False,11,12,32,16,13:00,Sunday,dome,fieldturf,,,,,10,11,27,32,3,15,0,13,23,56.52173913043478,0,1,166,0,0,79.3
+FrerGu00,Gus Frerotte,17.5,QB,75,237,False,min,chi,True,4-3,False,17,28,2,27,20:15,Sunday,dome,fieldturf,,,,,25,5,9,5,1,1,1,16,25,64.0,1,0,210,1,2,87.1
+CassMa00,Matt Cassel,3.9,QB,77,230,False,nwe,pit,True,3-4,False,3,26,7,3,16:15,Sunday,outdoors,fieldturf,34,100,3,,12,6,1,2,2,1,0,19,39,48.717948717948715,2,2,169,0,5,39.4
+BreeDr00,Drew Brees,16.8,QB,72,209,False,nor,tam,False,4-3,False,5,2,15,7,13:02,Sunday,outdoors,grass,73,83,30,,1,28,6,15,0,0,0,25,47,53.191489361702125,3,0,296,2,1,60.2
+MannEl00,Eli Manning,18.9,QB,76,218,False,nyg,was,False,4-3,False,4,10,20,29,13:04,Sunday,outdoors,grass,40,92,,0,18,1,14,10,4,7,0,21,34,61.76470588235294,1,0,305,1,2,88.5
+FavrBr00,Brett Favre,8.4,QB,74,225,False,nyj,den,True,4-3,False,2,19,23,19,16:15,Sunday,outdoors,fieldturf,36,89,,29,16,9,31,29,0,0,0,23,43,53.48837209302325,1,1,247,0,2,60.9
+RussJa00,JaMarcus Russell,9.0,QB,78,265,False,rai,kan,True,4-3,False,25,30,26,32,16:15,Sunday,outdoors,grass,59,72,,0,32,10,28,26,2,37,0,10,28,35.714285714285715,0,0,132,0,0,51.5
+McNaDo00,Donovan McNabb,28.8,QB,74,240,False,phi,crd,True,4-3,False,13,6,17,24,20:16,Thursday,outdoors,grass,41,62,5,,6,22,26,13,4,24,0,27,39,69.23076923076923,0,0,260,4,1,121.7
+RoetBe00,Ben Roethlisberger,14.8,QB,77,240,False,pit,nwe,False,3-4,False,26,29,16,17,16:15,Sunday,outdoors,fieldturf,34,100,3,,17,23,24,11,3,6,0,17,33,51.515151515151516,1,0,179,2,1,75.2
+HillSh00,Shaun Hill,9.4,QB,77,210,False,sfo,buf,False,4-3,False,8,31,8,28,13:01,Sunday,outdoors,astroplay,38,69,,29,13,27,22,21,4,0,0,14,23,60.86956521739131,0,2,161,1,3,96.5
+HassMa00,Matt Hasselbeck,11.5,QB,76,223,False,sea,dal,False,3-4,False,27,22,14,1,16:29,Thursday,outdoors,fieldturf,69,31,,0,29,19,11,14,2,10,0,22,38,57.89473684210527,1,0,287,0,7,70.8
+GarcJe00,Jeff Garcia,12.5,QB,73,195,False,tam,nor,True,4-3,False,21,18,22,25,13:02,Sunday,outdoors,grass,73,83,30,,11,15,23,22,7,42,0,9,23,39.130434782608695,0,1,119,1,4,70.7
+CollKe00,Kerry Collins,5.8,QB,77,248,False,oti,det,False,4-3,False,20,3,29,11,24:37,Thursday,dome,fieldturf,,,,,27,7,32,31,1,12,0,11,18,61.111111111111114,0,1,127,0,1,82.4
+YounVi00,Vince Young,2.0,QB,77,230,False,oti,det,False,4-3,False,20,3,29,11,24:37,Thursday,dome,fieldturf,,,,,27,7,32,31,2,-2,0,1,1,100.0,0,0,54,0,0,118.7
+CampJa00,Jason Campbell,11.6,QB,77,223,False,was,nyg,True,4-3,False,6,15,3,8,13:04,Sunday,outdoors,grass,40,92,,0,23,8,10,12,5,38,0,23,38,60.526315789473685,1,1,232,0,4,67.0

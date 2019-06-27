@@ -1,0 +1,192 @@
+player_id,player,fant_pts,position,height,weight,rookie,team,opp,home,opp_def_align,after_bye,oline_rush,oline_pass,opp_dline_rush,opp_dline_pass,gametime,gameday,roof,surface,temp,rel_hum,wind,wind_chill,off_pass_rank,off_rush_rank,opp_def_pass_rank,opp_def_rush_rank,rush_att,rush_yards,rush_tds,targets,receptions,rec_yards,rec_tds,fumbles
+ArriJ.00,J.J. Arrington,4.7,RB,69,214,False,crd,sea,True,4-3,False,30,8,18,18,16:15,Sunday,retractable roof (closed),grass,,,,,2,32,30,17,1,9,0,5,2,18,0,0
+BreaSt00,Steve Breaston,20.1,WR,73,175,False,crd,sea,True,4-3,False,30,8,18,18,16:15,Sunday,retractable roof (closed),grass,,,,,2,32,30,17,0,0,0,7,5,91,1,0
+FitzLa00,Larry Fitzgerald,33.0,WR,75,225,False,crd,sea,True,4-3,False,30,8,18,18,16:15,Sunday,retractable roof (closed),grass,,,,,2,32,30,17,0,0,0,8,5,130,2,0
+HighTi00,Tim Hightower,0.3,RB,72,226,True,crd,sea,True,4-3,False,30,8,18,18,16:15,Sunday,retractable roof (closed),grass,,,,,2,32,30,17,3,3,0,0,0,0,0,0
+JameEd00,Edgerrin James,14.6,RB,72,214,False,crd,sea,True,4-3,False,30,8,18,18,16:15,Sunday,retractable roof (closed),grass,,,,,2,32,30,17,14,100,0,1,1,6,0,0
+PatrBe00,Ben Patrick,2.7,TE,75,252,False,crd,sea,True,4-3,False,30,8,18,18,16:15,Sunday,retractable roof (closed),grass,,,,,2,32,30,17,0,0,0,4,1,17,0,0
+PopeLe00,Leonard Pope,1.7,TE,80,264,False,crd,sea,True,4-3,False,30,8,18,18,16:15,Sunday,retractable roof (closed),grass,,,,,2,32,30,17,0,0,0,2,1,7,0,0
+UrbaJe00,Jerheme Urban,14.3,WR,75,212,False,crd,sea,True,4-3,False,30,8,18,18,16:15,Sunday,retractable roof (closed),grass,,,,,2,32,30,17,0,0,0,6,4,43,1,0
+JenkMi00,Michael Jenkins,11.2,WR,76,217,False,atl,ram,True,4-3,False,9,5,32,16,13:02,Sunday,dome,fieldturf,,,,,14,2,27,32,0,0,0,6,4,72,0,0
+TurnMi00,Michael Turner,29.3,RB,70,237,False,atl,ram,True,4-3,False,9,5,32,16,13:02,Sunday,dome,fieldturf,,,,,14,2,27,32,25,208,1,0,0,0,0,1
+WhitRo00,Roddy White,13.8,WR,73,201,False,atl,ram,True,4-3,False,9,5,32,16,13:02,Sunday,dome,fieldturf,,,,,14,2,27,32,0,0,0,7,3,48,1,0
+ClayMa01,Mark Clayton,19.8,WR,70,193,False,rav,jax,True,4-3,False,16,20,9,14,16:16,Sunday,outdoors,sportturf,62,60,,0,28,4,29,9,0,0,0,5,4,128,0,0
+HeapTo00,Todd Heap,5.5,TE,77,252,False,rav,jax,True,4-3,False,16,20,9,14,16:16,Sunday,outdoors,sportturf,62,60,,0,28,4,29,9,0,0,0,4,3,25,0,0
+MasoDe00,Derrick Mason,14.0,WR,70,190,False,rav,jax,True,4-3,False,16,20,9,14,16:16,Sunday,outdoors,sportturf,62,60,,0,28,4,29,9,1,3,0,8,6,77,0,0
+McGaWi00,Willis McGahee,12.9,RB,72,228,False,rav,jax,True,4-3,False,16,20,9,14,16:16,Sunday,outdoors,sportturf,62,60,,0,28,4,29,9,4,24,1,3,2,25,0,0
+EvanLe00,Lee Evans,11.3,WR,70,202,False,buf,nwe,True,3-4,False,14,25,16,17,13:02,Sunday,outdoors,astroplay,39,74,,26,22,14,24,11,0,0,0,7,5,63,0,0
+FineDe00,Derek Fine,2.8,TE,74,250,True,buf,nwe,True,3-4,False,14,25,16,17,13:02,Sunday,outdoors,astroplay,39,74,,26,22,14,24,11,0,0,0,2,2,8,0,0
+JackFr02,Fred Jackson,17.6,RB,73,215,False,buf,nwe,True,3-4,False,14,25,16,17,13:02,Sunday,outdoors,astroplay,39,74,,26,22,14,24,11,27,136,0,2,1,0,0,0
+ReedJo01,Josh Reed,4.1,WR,70,208,False,buf,nwe,True,3-4,False,14,25,16,17,13:02,Sunday,outdoors,astroplay,39,74,,26,22,14,24,11,0,0,0,5,2,21,0,0
+RoyaRo00,Robert Royal,5.0,TE,76,257,False,buf,nwe,True,3-4,False,14,25,16,17,13:02,Sunday,outdoors,astroplay,39,74,,26,22,14,24,11,0,0,0,5,2,30,0,0
+SchoDe00,Derek Schouman,2.6,TE,74,247,False,buf,nwe,True,3-4,False,14,25,16,17,13:02,Sunday,outdoors,astroplay,39,74,,26,22,14,24,11,0,0,0,2,2,6,0,0
+HackD.00,D.J. Hackett,5.7,WR,74,199,False,car,nor,False,4-3,False,7,9,22,25,13:03,Sunday,dome,fieldturf,,,,,19,3,23,22,0,0,0,2,2,37,0,0
+MuhaMu00,Muhsin Muhammad,20.9,WR,74,217,False,car,nor,False,4-3,False,7,9,22,25,13:03,Sunday,dome,fieldturf,,,,,19,3,23,22,0,0,0,8,7,79,1,0
+SmitSt01,Steve Smith,21.4,WR,69,185,False,car,nor,False,4-3,False,7,9,22,25,13:03,Sunday,dome,fieldturf,,,,,19,3,23,22,0,0,0,8,5,134,0,0
+WillDe02,DeAngelo Williams,20.8,RB,68,210,False,car,nor,False,4-3,False,7,9,22,25,13:03,Sunday,dome,fieldturf,,,,,19,3,23,22,25,178,0,0,0,0,0,0
+ClarDe00,Desmond Clark,1.7,TE,75,255,False,chi,htx,False,4-3,False,24,11,30,23,13:03,Sunday,retractable roof (open),grass,,,,,21,24,25,30,0,0,0,1,1,7,0,0
+DaviRa00,Rashied Davis,5.5,WR,70,180,False,chi,htx,False,4-3,False,24,11,30,23,13:03,Sunday,retractable roof (open),grass,,,,,21,24,25,30,0,0,0,2,2,35,0,0
+FortMa00,Matt Forte,10.5,RB,73,221,True,chi,htx,False,4-3,False,24,11,30,23,13:03,Sunday,retractable roof (open),grass,,,,,21,24,25,30,13,50,0,4,3,25,0,0
+HestDe99,Devin Hester,14.0,WR,70,185,False,chi,htx,False,4-3,False,24,11,30,23,13:03,Sunday,retractable roof (open),grass,,,,,21,24,25,30,0,0,0,8,6,85,0,1
+LloyBr00,Brandon Lloyd,13.4,WR,72,192,False,chi,htx,False,4-3,False,24,11,30,23,13:03,Sunday,retractable roof (open),grass,,,,,21,24,25,30,0,0,0,9,4,34,1,0
+OlseGr00,Greg Olsen,13.0,TE,78,254,False,chi,htx,False,4-3,False,24,11,30,23,13:03,Sunday,retractable roof (open),grass,,,,,21,24,25,30,0,0,0,8,4,30,1,0
+BensCe00,Cedric Benson,23.5,RB,71,222,False,cin,kan,True,4-3,False,32,27,26,32,13:02,Sunday,outdoors,fieldturf,43,56,17,,30,29,28,26,25,111,1,2,2,19,0,1
+CaldAn00,Andre Caldwell,13.3,WR,73,207,True,cin,kan,True,4-3,False,32,27,26,32,13:02,Sunday,outdoors,fieldturf,43,56,17,,30,29,28,26,4,49,0,7,5,34,0,0
+HenrCh00,Chris Henry,3.9,WR,76,197,False,cin,kan,True,4-3,False,32,27,26,32,13:02,Sunday,outdoors,fieldturf,43,56,17,,30,29,28,26,0,0,0,4,2,19,0,0
+HoltGl00,Glenn Holt,2.0,WR,73,195,False,cin,kan,True,4-3,False,32,27,26,32,13:02,Sunday,outdoors,fieldturf,43,56,17,,30,29,28,26,0,0,0,4,1,10,0,0
+KellRe00,Reggie Kelly,2.9,TE,76,255,False,cin,kan,True,4-3,False,32,27,26,32,13:02,Sunday,outdoors,fieldturf,43,56,17,,30,29,28,26,0,0,0,2,2,9,0,0
+LawrNa00,Nate Lawrie,3.1,TE,79,256,False,cin,kan,True,4-3,False,32,27,26,32,13:02,Sunday,outdoors,fieldturf,43,56,17,,30,29,28,26,0,0,0,3,2,11,0,0
+UtecBe00,Ben Utecht,1.7,TE,78,251,False,cin,kan,True,4-3,False,32,27,26,32,13:02,Sunday,outdoors,fieldturf,43,56,17,,30,29,28,26,0,0,0,3,1,7,0,0
+CribJo01,Josh Cribbs,1.0,WR,73,192,False,cle,pit,False,3-4,False,22,7,7,3,13:02,Sunday,outdoors,dessograss,48,50,22,,31,26,1,2,2,7,0,0,0,0,0,0
+EdwaBr00,Braylon Edwards,1.5,WR,75,211,False,cle,pit,False,3-4,False,22,7,7,3,13:02,Sunday,outdoors,dessograss,48,50,22,,31,26,1,2,0,0,0,5,1,5,0,0
+LewiJa00,Jamal Lewis,8.9,RB,71,240,False,cle,pit,False,3-4,False,22,7,7,3,13:02,Sunday,outdoors,dessograss,48,50,22,,31,26,1,2,23,94,0,1,0,0,0,1
+RuckMa00,Martin Rucker,1.8,TE,77,238,True,cle,pit,False,3-4,False,22,7,7,3,13:02,Sunday,outdoors,dessograss,48,50,22,,31,26,1,2,0,0,0,2,1,8,0,0
+StalDo00,Donte' Stallworth,2.2,WR,72,197,False,cle,pit,False,3-4,False,22,7,7,3,13:02,Sunday,outdoors,dessograss,48,50,22,,31,26,1,2,0,0,0,3,1,12,0,0
+BarbMa01,Marion Barber,4.8,RB,71,221,False,dal,phi,False,4-3,False,18,13,5,4,16:15,Sunday,outdoors,grass,62,68,,0,9,21,3,3,3,13,0,2,2,20,0,1
+BennMa00,Martellus Bennett,3.4,TE,79,248,True,dal,phi,False,4-3,False,18,13,5,4,16:15,Sunday,outdoors,grass,62,68,,0,9,21,3,3,0,0,0,3,2,14,0,0
+ChoiTa00,Tashard Choice,7.4,RB,69,210,True,dal,phi,False,4-3,False,18,13,5,4,16:15,Sunday,outdoors,grass,62,68,,0,9,21,3,3,13,56,0,1,1,8,0,0
+CrayPa00,Patrick Crayton,6.4,WR,72,205,False,dal,phi,False,4-3,False,18,13,5,4,16:15,Sunday,outdoors,grass,62,68,,0,9,21,3,3,0,0,0,5,3,34,0,0
+OwenTe00,Terrell Owens,20.0,WR,75,226,False,dal,phi,False,4-3,False,18,13,5,4,16:15,Sunday,outdoors,grass,62,68,,0,9,21,3,3,1,7,0,10,6,103,0,0
+WillRo04,Roy Williams,2.4,WR,76,210,False,dal,phi,False,4-3,False,18,13,5,4,16:15,Sunday,outdoors,grass,62,68,,0,9,21,3,3,0,0,0,0,0,0,0,0
+WittJa00,Jason Witten,13.7,TE,77,257,False,dal,phi,False,4-3,False,18,13,5,4,16:15,Sunday,outdoors,grass,62,68,,0,9,21,3,3,0,0,0,11,7,50,0,0
+BellTa00,Tatum Bell,27.7,RB,71,190,False,den,sdg,False,3-4,False,1,4,25,20,20:23,Sunday,outdoors,grass,58,46,,0,3,12,20,20,8,86,2,5,4,31,0,0
+GrahDa00,Daniel Graham,3.9,TE,75,257,False,den,sdg,False,3-4,False,1,4,25,20,20:23,Sunday,outdoors,grass,58,46,,0,3,12,20,20,0,0,0,2,2,19,0,0
+JackDa00,Darrell Jackson,2.3,WR,72,201,False,den,sdg,False,3-4,False,1,4,25,20,20:23,Sunday,outdoors,grass,58,46,,0,3,12,20,20,0,0,0,1,1,13,0,0
+MarsBr00,Brandon Marshall,11.5,WR,76,229,False,den,sdg,False,3-4,False,1,4,25,20,20:23,Sunday,outdoors,grass,58,46,,0,3,12,20,20,0,0,0,11,6,55,0,0
+RoyaEd00,Eddie Royal,18.6,WR,70,182,True,den,sdg,False,3-4,False,1,4,25,20,20:23,Sunday,outdoors,grass,58,46,,0,3,12,20,20,0,0,0,17,11,76,0,0
+ScheTo00,Tony Scheffler,18.5,TE,77,255,False,den,sdg,False,3-4,False,1,4,25,20,20:23,Sunday,outdoors,grass,58,46,,0,3,12,20,20,0,0,0,7,5,75,1,0
+StokBr00,Brandon Stokley,8.7,WR,71,197,False,den,sdg,False,3-4,False,1,4,25,20,20:23,Sunday,outdoors,grass,58,46,,0,3,12,20,20,0,0,0,6,4,47,0,0
+ColbKe00,Keary Colbert,2.1,WR,73,200,False,det,gnb,False,4-3,False,31,32,28,21,13:02,Sunday,outdoors,grass,22,71,,10,24,30,7,27,0,0,0,3,1,11,0,0
+FitzCa00,Casey Fitzsimmons,1.7,TE,76,258,False,det,gnb,False,4-3,False,31,32,28,21,13:02,Sunday,outdoors,grass,22,71,,10,24,30,7,27,0,0,0,7,1,7,0,0
+JohnCa00,Calvin Johnson,34.2,WR,77,239,False,det,gnb,False,4-3,False,31,32,28,21,13:02,Sunday,outdoors,grass,22,71,,10,24,30,7,27,0,0,0,17,9,102,2,0
+OwenJo00,John Owens,1.2,TE,75,266,False,det,gnb,False,4-3,False,31,32,28,21,13:02,Sunday,outdoors,grass,22,71,,10,24,30,7,27,0,0,0,1,1,2,0,0
+SmitKe02,Kevin Smith,18.9,RB,72,210,True,det,gnb,False,4-3,False,31,32,28,21,13:02,Sunday,outdoors,grass,22,71,,10,24,30,7,27,28,92,1,5,3,7,0,0
+StanJo00,John Standeford,11.2,WR,76,206,True,det,gnb,False,4-3,False,31,32,28,21,13:02,Sunday,outdoors,grass,22,71,,10,24,30,7,27,0,0,0,5,3,82,0,0
+DrivDo00,Donald Driver,26.1,WR,72,188,False,gnb,det,True,4-3,False,19,14,29,11,13:02,Sunday,outdoors,grass,22,71,,10,8,17,32,31,0,0,0,6,6,111,1,0
+FinlJe00,Jermichael Finley,10.9,TE,76,240,True,gnb,det,True,4-3,False,19,14,29,11,13:02,Sunday,outdoors,grass,22,71,,10,8,17,32,31,0,0,0,3,2,29,1,0
+GranRy00,Ryan Grant,18.4,RB,73,218,False,gnb,det,True,4-3,False,19,14,29,11,13:02,Sunday,outdoors,grass,22,71,,10,8,17,32,31,19,106,0,3,3,23,0,1
+JennGr00,Greg Jennings,18.1,WR,71,195,False,gnb,det,True,4-3,False,19,14,29,11,13:02,Sunday,outdoors,grass,22,71,,10,8,17,32,31,0,0,0,10,5,101,0,0
+JoneJa04,James Jones,3.4,WR,73,208,False,gnb,det,True,4-3,False,19,14,29,11,13:02,Sunday,outdoors,grass,22,71,,10,8,17,32,31,0,0,0,3,2,14,0,0
+NelsJo00,Jordy Nelson,1.9,WR,75,215,True,gnb,det,True,4-3,False,19,14,29,11,13:02,Sunday,outdoors,grass,22,71,,10,8,17,32,31,0,0,0,1,1,9,0,0
+AndeDa01,David Anderson,1.9,WR,70,195,False,htx,chi,True,4-3,False,10,16,2,27,13:03,Sunday,retractable roof (open),grass,,,,,4,13,9,5,0,0,0,2,1,9,0,0
+DaniOw00,Owen Daniels,6.7,TE,75,245,False,htx,chi,True,4-3,False,10,16,2,27,13:03,Sunday,retractable roof (open),grass,,,,,4,13,9,5,0,0,0,5,3,37,0,0
+JohnAn02,Andre Johnson,39.8,WR,75,219,False,htx,chi,True,4-3,False,10,16,2,27,13:03,Sunday,retractable roof (open),grass,,,,,4,13,9,5,0,0,0,13,10,148,2,0
+SlatSt00,Steve Slaton,23.3,RB,70,195,True,htx,chi,True,4-3,False,10,16,2,27,13:03,Sunday,retractable roof (open),grass,,,,,4,13,9,5,20,92,1,6,5,36,0,1
+WaltKe00,Kevin Walter,3.3,WR,75,221,False,htx,chi,True,4-3,False,10,16,2,27,13:03,Sunday,retractable roof (open),grass,,,,,4,13,9,5,0,0,0,1,1,23,0,0
+AddaJo00,Joseph Addai,13.9,RB,71,210,False,clt,oti,True,4-3,False,23,1,6,9,13:02,Sunday,retractable roof (closed),fieldturf,,,,,5,31,4,6,1,4,0,2,2,55,1,0
+ClarDa00,Dallas Clark,11.9,TE,75,257,False,clt,oti,True,4-3,False,23,1,6,9,13:02,Sunday,retractable roof (closed),fieldturf,,,,,5,31,4,6,0,0,0,8,6,59,0,0
+GonzAn00,Anthony Gonzalez,2.2,WR,72,193,False,clt,oti,True,4-3,False,23,1,6,9,13:02,Sunday,retractable roof (closed),fieldturf,,,,,5,31,4,6,0,0,0,1,1,12,0,0
+HarrMa00,Marvin Harrison,10.1,WR,72,175,False,clt,oti,True,4-3,False,23,1,6,9,13:02,Sunday,retractable roof (closed),fieldturf,,,,,5,31,4,6,0,0,0,10,7,31,0,0
+RobiGi21,Gijon Robinson,1.6,RB,73,255,True,clt,oti,True,4-3,False,23,1,6,9,13:02,Sunday,retractable roof (closed),fieldturf,,,,,5,31,4,6,0,0,0,1,1,6,0,0
+WaynRe00,Reggie Wayne,2.5,WR,72,198,False,clt,oti,True,4-3,False,23,1,6,9,13:02,Sunday,retractable roof (closed),fieldturf,,,,,5,31,4,6,0,0,0,1,1,15,0,0
+AnguRi00,Richard Angulo,1.4,TE,79,260,False,jax,rav,False,3-4,False,12,24,1,15,16:16,Sunday,outdoors,sportturf,62,60,,0,15,18,2,1,0,0,0,1,1,4,0,0
+EstaGr01,Greg Estandia,1.9,TE,80,240,False,jax,rav,False,3-4,False,12,24,1,15,16:16,Sunday,outdoors,sportturf,62,60,,0,15,18,2,1,0,0,0,1,1,9,0,0
+DrewMa00,Maurice Jones-Drew,8.8,RB,68,205,False,jax,rav,False,3-4,False,12,24,1,15,16:16,Sunday,outdoors,sportturf,62,60,,0,15,18,2,1,23,78,0,2,1,10,0,2
+LewiMa00,Marcedes Lewis,1.0,TE,78,255,False,jax,rav,False,3-4,False,12,24,1,15,16:16,Sunday,outdoors,sportturf,62,60,,0,15,18,2,1,0,0,0,1,1,0,0,0
+NortDe00,Dennis Northcutt,8.0,WR,71,175,False,jax,rav,False,3-4,False,12,24,1,15,16:16,Sunday,outdoors,sportturf,62,60,,0,15,18,2,1,0,0,0,8,5,35,0,1
+WalkMi01,Mike Sims-Walker,3.3,WR,74,197,True,jax,rav,False,3-4,False,12,24,1,15,16:16,Sunday,outdoors,sportturf,62,60,,0,15,18,2,1,0,0,0,2,1,23,0,0
+WillRe00,Reggie Williams,3.6,WR,76,225,False,jax,rav,False,3-4,False,12,24,1,15,16:16,Sunday,outdoors,sportturf,62,60,,0,15,18,2,1,0,0,0,7,2,16,0,0
+BoweDw00,Dwayne Bowe,23.3,WR,74,221,False,kan,cin,False,4-3,False,28,21,12,31,13:02,Sunday,outdoors,fieldturf,43,56,17,,20,16,19,8,0,0,0,14,10,103,0,0
+BradMa00,Mark Bradley,4.1,WR,73,201,False,kan,cin,False,4-3,False,28,21,12,31,13:02,Sunday,outdoors,fieldturf,43,56,17,,20,16,19,8,0,0,0,6,2,21,0,0
+CharJa00,Jamaal Charles,0.9,RB,71,199,True,kan,cin,False,4-3,False,28,21,12,31,13:02,Sunday,outdoors,fieldturf,43,56,17,,20,16,19,8,3,9,0,1,0,0,0,0
+DarlDe00,Devard Darling,3.4,WR,73,213,False,kan,cin,False,4-3,False,28,21,12,31,13:02,Sunday,outdoors,fieldturf,43,56,17,,20,16,19,8,0,0,0,3,2,14,0,0
+GonzTo00,Tony Gonzalez,16.3,TE,77,251,False,kan,cin,False,4-3,False,28,21,12,31,13:02,Sunday,outdoors,fieldturf,43,56,17,,20,16,19,8,0,0,0,10,5,53,1,0
+JohnLa00,Larry Johnson,1.8,RB,73,228,False,kan,cin,False,4-3,False,28,21,12,31,13:02,Sunday,outdoors,fieldturf,43,56,17,,20,16,19,8,10,18,0,2,0,0,0,0
+ChamCh00,Chris Chambers,8.0,WR,71,210,False,sdg,den,True,4-3,False,15,17,23,19,20:23,Sunday,outdoors,grass,58,46,,0,7,20,31,29,0,0,0,5,3,50,0,0
+GateAn00,Antonio Gates,7.9,TE,76,260,False,sdg,den,True,4-3,False,15,17,23,19,20:23,Sunday,outdoors,grass,58,46,,0,7,20,31,29,0,0,0,3,3,49,0,0
+JackVi00,Vincent Jackson,9.7,WR,77,241,False,sdg,den,True,4-3,False,15,17,23,19,20:23,Sunday,outdoors,grass,58,46,,0,7,20,31,29,2,30,0,2,2,47,0,0
+ManuBr00,Brandon Manumaleuna,9.7,TE,74,288,False,sdg,den,True,4-3,False,15,17,23,19,20:23,Sunday,outdoors,grass,58,46,,0,7,20,31,29,0,0,0,2,2,17,1,0
+TomlLa00,LaDainian Tomlinson,27.6,RB,70,221,False,sdg,den,True,4-3,False,15,17,23,19,20:23,Sunday,outdoors,grass,58,46,,0,7,20,31,29,14,96,3,0,0,0,0,0
+AverDo00,Donnie Avery,15.0,WR,71,186,True,ram,atl,False,4-3,False,29,23,19,10,13:02,Sunday,dome,fieldturf,,,,,26,25,17,25,0,0,0,9,5,40,1,0
+BurtKe00,Keenan Burton,2.3,WR,72,202,True,ram,atl,False,4-3,False,29,23,19,10,13:02,Sunday,dome,fieldturf,,,,,26,25,17,25,1,5,0,2,1,8,0,0
+HoltTo00,Torry Holt,15.0,WR,72,190,False,ram,atl,False,4-3,False,29,23,19,10,13:02,Sunday,dome,fieldturf,,,,,26,25,17,25,0,0,0,10,6,90,0,0
+JackSt00,Steven Jackson,40.5,RB,75,229,False,ram,atl,False,4-3,False,29,23,19,10,13:02,Sunday,dome,fieldturf,,,,,26,25,17,25,30,161,2,6,4,54,0,0
+KlopJo00,Joe Klopfenstein,3.9,TE,77,250,False,ram,atl,False,4-3,False,29,23,19,10,13:02,Sunday,dome,fieldturf,,,,,26,25,17,25,0,0,0,1,1,29,0,0
+LookDa00,Dane Looker,0,WR,72,194,False,ram,atl,False,4-3,False,29,23,19,10,13:02,Sunday,dome,fieldturf,,,,,26,25,17,25,0,0,0,1,0,0,0,0
+PittAn00,Antonio Pittman,1.2,RB,71,207,False,ram,atl,False,4-3,False,29,23,19,10,13:02,Sunday,dome,fieldturf,,,,,26,25,17,25,2,12,0,1,0,0,0,0
+BessDa00,Davone Bess,9.9,WR,70,190,True,mia,nyj,False,3-4,False,11,12,10,12,16:17,Sunday,outdoors,fieldturf,65,85,,0,10,11,18,7,0,0,0,8,6,39,0,0
+BrowRo05,Ronnie Brown,11.2,RB,72,233,False,mia,nyj,False,3-4,False,11,12,10,12,16:17,Sunday,outdoors,fieldturf,65,85,,0,10,11,18,7,11,57,0,5,4,15,0,0
+FasaAn00,Anthony Fasano,12.9,TE,76,255,False,mia,nyj,False,3-4,False,11,12,10,12,16:17,Sunday,outdoors,fieldturf,65,85,,0,10,11,18,7,0,0,0,3,3,39,1,0
+GinnTe00,Ted Ginn,15.1,WR,71,178,False,mia,nyj,False,3-4,False,11,12,10,12,16:17,Sunday,outdoors,fieldturf,65,85,,0,10,11,18,7,0,0,0,5,2,71,1,0
+LondBr00,Brandon London,2.0,WR,76,210,True,mia,nyj,False,3-4,False,11,12,10,12,16:17,Sunday,outdoors,fieldturf,65,85,,0,10,11,18,7,0,0,0,2,1,10,0,0
+MartDa00,David Martin,1.8,TE,76,260,False,mia,nyj,False,3-4,False,11,12,10,12,16:17,Sunday,outdoors,fieldturf,65,85,,0,10,11,18,7,0,0,0,1,1,8,0,0
+WillRi00,Ricky Williams,6.3,RB,70,226,False,mia,nyj,False,3-4,False,11,12,10,12,16:17,Sunday,outdoors,fieldturf,65,85,,0,10,11,18,7,10,50,0,2,1,3,0,0
+BerrBe00,Bernard Berrian,18.1,WR,73,190,False,min,nyg,True,4-3,False,17,28,3,8,13:05,Sunday,dome,fieldturf,,,,,25,5,10,12,0,0,0,6,4,81,1,0
+DugaJe00,Jeff Dugan,2.0,TE,76,261,False,min,nyg,True,4-3,False,17,28,3,8,13:05,Sunday,dome,fieldturf,,,,,25,5,10,12,1,1,0,1,1,9,0,0
+KleiJi00,Jim Kleinsasser,1.5,TE,75,272,False,min,nyg,True,4-3,False,17,28,3,8,13:05,Sunday,dome,fieldturf,,,,,25,5,10,12,0,0,0,1,1,5,0,0
+PeteAd01,Adrian Peterson,18.8,RB,74,217,False,min,nyg,True,4-3,False,17,28,3,8,13:05,Sunday,dome,fieldturf,,,,,25,5,10,12,21,103,1,0,0,0,0,1
+RiceSi01,Sidney Rice,1.9,WR,76,200,False,min,nyg,True,4-3,False,17,28,3,8,13:05,Sunday,dome,fieldturf,,,,,25,5,10,12,0,0,0,3,1,9,0,0
+ShiaVi00,Visanthe Shiancoe,3.4,TE,76,250,False,min,nyg,True,4-3,False,17,28,3,8,13:05,Sunday,dome,fieldturf,,,,,25,5,10,12,0,0,0,3,2,14,0,0
+TaylCh01,Chester Taylor,3.9,RB,71,213,False,min,nyg,True,4-3,False,17,28,3,8,13:05,Sunday,dome,fieldturf,,,,,25,5,10,12,4,10,0,1,1,19,0,0
+WadeBo00,Bobby Wade,13.8,WR,70,193,False,min,nyg,True,4-3,False,17,28,3,8,13:05,Sunday,dome,fieldturf,,,,,25,5,10,12,0,0,0,6,4,98,0,0
+FaulKe00,Kevin Faulk,1.8,RB,68,202,False,nwe,buf,False,4-3,False,3,26,8,28,13:02,Sunday,outdoors,astroplay,39,74,,26,12,6,22,21,0,0,0,1,1,8,0,0
+MorrSa00,Sammy Morris,8.5,RB,72,220,False,nwe,buf,False,4-3,False,3,26,8,28,13:02,Sunday,outdoors,astroplay,39,74,,26,12,6,22,21,24,85,0,0,0,0,0,0
+MossRa00,Randy Moss,2.3,WR,76,215,False,nwe,buf,False,4-3,False,3,26,8,28,13:02,Sunday,outdoors,astroplay,39,74,,26,12,6,22,21,0,0,0,2,1,13,0,0
+WelkWe00,Wes Welker,4.6,WR,69,190,False,nwe,buf,False,4-3,False,3,26,8,28,13:02,Sunday,outdoors,astroplay,39,74,,26,12,6,22,21,0,0,0,3,2,26,0,0
+ColsMa00,Marques Colston,28.3,WR,76,225,False,nor,car,True,4-3,False,5,2,24,5,13:03,Sunday,dome,fieldturf,,,,,1,28,8,24,0,0,0,12,7,123,1,0
+HendDe00,Devery Henderson,4.9,WR,71,200,False,nor,car,True,4-3,False,5,2,24,5,13:03,Sunday,dome,fieldturf,,,,,1,28,8,24,0,0,0,2,2,29,0,0
+McAlDe00,Deuce McAllister,13.1,RB,73,232,False,nor,car,True,4-3,False,5,2,24,5,13:03,Sunday,dome,fieldturf,,,,,1,28,8,24,8,40,0,8,5,41,0,0
+MeacRo00,Robert Meachem,12.6,WR,74,214,True,nor,car,True,4-3,False,5,2,24,5,13:03,Sunday,dome,fieldturf,,,,,1,28,8,24,0,0,0,5,3,36,1,0
+MillBi00,Billy Miller,8.6,TE,75,245,False,nor,car,True,4-3,False,5,2,24,5,13:03,Sunday,dome,fieldturf,,,,,1,28,8,24,0,0,0,7,3,56,0,0
+MoorLa00,Lance Moore,29.1,WR,69,177,False,nor,car,True,4-3,False,5,2,24,5,13:03,Sunday,dome,fieldturf,,,,,1,28,8,24,0,0,0,11,8,91,2,0
+OrteBu00,Buck Ortega,1.3,TE,76,227,True,nor,car,True,4-3,False,5,2,24,5,13:03,Sunday,dome,fieldturf,,,,,1,28,8,24,0,0,0,2,1,3,0,0
+HixoDo00,Domenik Hixon,16.2,WR,74,192,False,nyg,min,False,4-3,False,4,10,4,2,13:05,Sunday,dome,fieldturf,,,,,18,1,5,4,0,0,0,8,4,62,1,0
+JohnDa03,Darcy Johnson,6.4,TE,77,252,False,nyg,min,False,4-3,False,4,10,4,2,13:05,Sunday,dome,fieldturf,,,,,18,1,5,4,0,0,0,3,2,44,0,0
+SmitSt02,Steve Smith,4.0,WR,72,195,False,nyg,min,False,4-3,False,4,10,4,2,13:05,Sunday,dome,fieldturf,,,,,18,1,5,4,0,0,0,3,2,20,0,0
+ToomAm00,Amani Toomer,3.6,WR,75,208,False,nyg,min,False,4-3,False,4,10,4,2,13:05,Sunday,dome,fieldturf,,,,,18,1,5,4,0,0,0,6,2,16,0,0
+WardDe01,Derrick Ward,11.1,RB,71,233,False,nyg,min,False,4-3,False,4,10,4,2,13:05,Sunday,dome,fieldturf,,,,,18,1,5,4,15,77,0,2,2,14,0,0
+BakeCh00,Chris Baker,3.3,TE,75,258,False,nyj,mia,True,3-4,False,2,19,13,13,16:17,Sunday,outdoors,fieldturf,65,85,,0,16,9,15,19,0,0,0,3,2,13,0,0
+ColeLa00,Laveranues Coles,18.8,WR,71,193,False,nyj,mia,True,3-4,False,2,19,13,13,16:17,Sunday,outdoors,fieldturf,65,85,,0,16,9,15,19,0,0,0,7,4,88,1,0
+CotcJe00,Jerricho Cotchery,7.6,WR,73,200,False,nyj,mia,True,3-4,False,2,19,13,13,16:17,Sunday,outdoors,fieldturf,65,85,,0,16,9,15,19,0,0,0,7,2,41,0,1
+JoneTh00,Thomas Jones,3.4,RB,70,220,False,nyj,mia,True,3-4,False,2,19,13,13,16:17,Sunday,outdoors,fieldturf,65,85,,0,16,9,15,19,10,23,0,2,1,1,0,0
+KellDu00,Dustin Keller,4.4,TE,74,248,True,nyj,mia,True,3-4,False,2,19,13,13,16:17,Sunday,outdoors,fieldturf,65,85,,0,16,9,15,19,0,0,0,8,2,24,0,0
+SmitBr01,Brad Smith,-0.3,WR,74,210,False,nyj,mia,True,3-4,False,2,19,13,13,16:17,Sunday,outdoors,fieldturf,65,85,,0,16,9,15,19,1,-3,0,1,0,-7,0,0
+StucCh20,Chansi Stuckey,9.0,WR,70,182,True,nyj,mia,True,3-4,False,2,19,13,13,16:17,Sunday,outdoors,fieldturf,65,85,,0,16,9,15,19,0,0,0,5,4,50,0,0
+WashLe00,Leon Washington,20.9,RB,68,210,False,nyj,mia,True,3-4,False,2,19,13,13,16:17,Sunday,outdoors,fieldturf,65,85,,0,16,9,15,19,10,60,1,8,6,29,0,0
+FargJu00,Justin Fargas,1.1,RB,73,220,False,rai,tam,False,4-3,False,25,30,15,7,13:02,Sunday,outdoors,grass,77,61,5,,32,10,6,15,6,11,0,0,0,0,0,0
+HiggJo00,Johnnie Lee Higgins,17.2,WR,72,185,False,rai,tam,False,4-3,False,25,30,15,7,13:02,Sunday,outdoors,grass,77,61,5,,32,10,6,15,0,0,0,7,6,52,1,0
+McFaDa00,Darren McFadden,3.2,RB,74,210,True,rai,tam,False,4-3,False,25,30,15,7,13:02,Sunday,outdoors,grass,77,61,5,,32,10,6,15,1,2,0,3,2,10,0,0
+MillZa01,Zach Miller,5.4,TE,77,256,False,rai,tam,False,4-3,False,25,30,15,7,13:02,Sunday,outdoors,grass,77,61,5,,32,10,6,15,0,0,0,3,2,34,0,0
+SchiCh00,Chaz Schilens,13.6,WR,76,225,True,rai,tam,False,4-3,False,25,30,15,7,13:02,Sunday,outdoors,grass,77,61,5,,32,10,6,15,0,0,0,3,3,46,1,0
+BrowRe01,Reggie Brown,2.3,WR,73,197,False,phi,dal,True,3-4,False,13,6,14,1,16:15,Sunday,outdoors,grass,62,68,,0,6,22,11,14,0,0,0,3,1,13,0,0
+BuckCo00,Correll Buckhalter,21.2,RB,72,222,False,phi,dal,True,3-4,False,13,6,14,1,16:15,Sunday,outdoors,grass,62,68,,0,6,22,11,14,10,63,0,3,3,59,1,0
+CeleBr00,Brent Celek,12.0,TE,76,261,False,phi,dal,True,3-4,False,13,6,14,1,16:15,Sunday,outdoors,grass,62,68,,0,6,22,11,14,0,0,0,3,3,30,1,0
+CurtKe00,Kevin Curtis,2.5,WR,71,186,False,phi,dal,True,3-4,False,13,6,14,1,16:15,Sunday,outdoors,grass,62,68,,0,6,22,11,14,0,0,0,2,1,15,0,0
+JackDe00,DeSean Jackson,6.6,WR,70,178,True,phi,dal,True,3-4,False,13,6,14,1,16:15,Sunday,outdoors,grass,62,68,,0,6,22,11,14,0,0,0,5,2,46,0,0
+WestBr00,Brian Westbrook,7.7,RB,68,200,False,phi,dal,True,3-4,False,13,6,14,1,16:15,Sunday,outdoors,grass,62,68,,0,6,22,11,14,13,50,0,3,2,12,0,1
+HolmSa00,Santonio Holmes,5.6,WR,70,185,False,pit,cle,True,3-4,False,26,29,31,30,13:02,Sunday,outdoors,dessograss,48,50,22,,17,23,16,23,0,0,0,8,3,31,0,1
+MillHe00,Heath Miller,10.5,TE,77,256,False,pit,cle,True,3-4,False,26,29,31,30,13:02,Sunday,outdoors,dessograss,48,50,22,,17,23,16,23,0,0,0,7,5,55,0,0
+MoorMe00,Mewelde Moore,4.3,RB,71,210,False,pit,cle,True,3-4,False,26,29,31,30,13:02,Sunday,outdoors,dessograss,48,50,22,,17,23,16,23,4,23,0,1,1,10,0,0
+ParkWi00,Willie Parker,20.6,RB,70,209,False,pit,cle,True,3-4,False,26,29,31,30,13:02,Sunday,outdoors,dessograss,48,50,22,,17,23,16,23,23,116,1,1,0,0,0,0
+WardHi00,Hines Ward,13.0,WR,72,205,False,pit,cle,True,3-4,False,26,29,31,30,13:02,Sunday,outdoors,dessograss,48,50,22,,17,23,16,23,0,0,0,7,6,70,0,0
+WashNa00,Nate Washington,2.3,WR,73,185,False,pit,cle,True,3-4,False,26,29,31,30,13:02,Sunday,outdoors,dessograss,48,50,22,,17,23,16,23,0,0,0,1,1,13,0,0
+BajeBi00,Billy Bajema,3.9,TE,77,261,False,sfo,was,True,4-3,False,8,31,20,29,16:15,Sunday,outdoors,grass,50,83,,0,13,27,14,10,0,0,0,1,1,29,0,0
+BrucIs00,Isaac Bruce,2.8,WR,72,188,False,sfo,was,True,4-3,False,8,31,20,29,16:15,Sunday,outdoors,grass,50,83,,0,13,27,14,10,0,0,0,3,2,8,0,0
+DaviVe00,Vernon Davis,4.3,TE,75,250,False,sfo,was,True,4-3,False,8,31,20,29,16:15,Sunday,outdoors,grass,50,83,,0,13,27,14,10,0,0,0,3,3,18,0,1
+FostDe00,DeShaun Foster,15.4,RB,72,222,False,sfo,was,True,4-3,False,8,31,20,29,16:15,Sunday,outdoors,grass,50,83,,0,13,27,14,10,9,44,1,3,3,20,0,0
+GoreFr00,Frank Gore,6.9,RB,69,215,False,sfo,was,True,4-3,False,8,31,20,29,16:15,Sunday,outdoors,grass,50,83,,0,13,27,14,10,11,58,0,1,1,6,0,1
+HillJa00,Jason Hill,13.7,WR,73,204,False,sfo,was,True,4-3,False,8,31,20,29,16:15,Sunday,outdoors,grass,50,83,,0,13,27,14,10,1,9,0,4,4,28,1,0
+JohnBr02,Bryant Johnson,6.3,WR,74,214,False,sfo,was,True,4-3,False,8,31,20,29,16:15,Sunday,outdoors,grass,50,83,,0,13,27,14,10,0,0,0,5,2,43,0,0
+MorgJo00,Josh Morgan,8.0,WR,72,218,True,sfo,was,True,4-3,False,8,31,20,29,16:15,Sunday,outdoors,grass,50,83,,0,13,27,14,10,0,0,0,5,3,50,0,0
+BranDe00,Deion Branch,27.0,WR,69,193,False,sea,crd,False,4-3,False,27,22,17,24,16:15,Sunday,retractable roof (closed),grass,,,,,29,19,26,13,0,0,0,12,6,90,2,0
+CarlJo00,John Carlson,3.4,TE,77,256,True,sea,crd,False,4-3,False,27,22,17,24,16:15,Sunday,retractable roof (closed),grass,,,,,29,19,26,13,0,0,0,5,2,14,0,0
+EngrBo00,Bobby Engram,11.0,WR,70,188,False,sea,crd,False,4-3,False,27,22,17,24,16:15,Sunday,retractable roof (closed),grass,,,,,29,19,26,13,0,0,0,9,6,50,0,0
+JoneJu01,Julius Jones,0.6,RB,70,210,False,sea,crd,False,4-3,False,27,22,17,24,16:15,Sunday,retractable roof (closed),grass,,,,,29,19,26,13,2,6,0,0,0,0,0,0
+MorrMa00,Maurice Morris,9.6,RB,71,202,False,sea,crd,False,4-3,False,27,22,17,24,16:15,Sunday,retractable roof (closed),grass,,,,,29,19,26,13,15,45,0,5,3,26,0,1
+RobiKo00,Koren Robinson,7.0,WR,73,205,False,sea,crd,False,4-3,False,27,22,17,24,16:15,Sunday,retractable roof (closed),grass,,,,,29,19,26,13,0,0,0,4,3,40,0,0
+BryaAn00,Antonio Bryant,10.7,WR,73,192,False,tam,rai,True,4-3,False,21,18,27,6,13:02,Sunday,outdoors,grass,77,61,5,,11,15,13,28,0,0,0,10,3,77,0,0
+ClayMi00,Michael Clayton,16.7,WR,76,197,False,tam,rai,True,4-3,False,21,18,27,6,13:02,Sunday,outdoors,grass,77,61,5,,11,15,13,28,0,0,0,5,2,87,1,0
+DunnWa00,Warrick Dunn,6.1,RB,69,180,False,tam,rai,True,4-3,False,21,18,27,6,13:02,Sunday,outdoors,grass,77,61,5,,11,15,13,28,10,37,0,3,2,4,0,0
+HillIk00,Ike Hilliard,4.0,WR,71,210,False,tam,rai,True,4-3,False,21,18,27,6,13:02,Sunday,outdoors,grass,77,61,5,,11,15,13,28,0,0,0,2,2,20,0,0
+StevJe00,Jerramy Stevens,4.8,TE,79,260,False,tam,rai,True,4-3,False,21,18,27,6,13:02,Sunday,outdoors,grass,77,61,5,,11,15,13,28,0,0,0,4,2,28,0,0
+WillCa02,Cadillac Williams,28.0,RB,71,217,False,tam,rai,True,4-3,False,21,18,27,6,13:02,Sunday,outdoors,grass,77,61,5,,11,15,13,28,12,78,2,5,5,37,0,1
+JoneBr02,Brandon Jones,3.3,WR,73,208,False,oti,clt,False,4-3,False,20,3,21,22,13:02,Sunday,retractable roof (closed),fieldturf,,,,,27,7,12,18,0,0,0,2,2,13,0,0
+McCaJu00,Justin McCareins,2.1,WR,74,215,False,oti,clt,False,4-3,False,20,3,21,22,13:02,Sunday,retractable roof (closed),fieldturf,,,,,27,7,12,18,0,0,0,1,1,11,0,0
+ScaiBo00,Bo Scaife,1.8,TE,75,249,False,oti,clt,False,4-3,False,20,3,21,22,13:02,Sunday,retractable roof (closed),fieldturf,,,,,27,7,12,18,0,0,0,5,1,8,0,0
+StevCr00,Craig Stevens,1.9,TE,75,255,True,oti,clt,False,4-3,False,20,3,21,22,13:02,Sunday,retractable roof (closed),fieldturf,,,,,27,7,12,18,0,0,0,1,1,9,0,0
+WhitLe01,LenDale White,2.5,RB,74,240,False,oti,clt,False,4-3,False,20,3,21,22,13:02,Sunday,retractable roof (closed),fieldturf,,,,,27,7,12,18,7,25,0,0,0,0,0,0
+CoolCh00,Chris Cooley,11.7,TE,75,252,False,was,sfo,False,3-4,False,6,15,11,26,16:15,Sunday,outdoors,grass,50,83,,0,23,8,21,16,0,0,0,7,6,57,0,0
+MossSa00,Santana Moss,12.8,WR,70,185,False,was,sfo,False,3-4,False,6,15,11,26,16:15,Sunday,outdoors,grass,50,83,,0,23,8,21,16,0,0,0,11,6,68,0,0
+PortCl00,Clinton Portis,13.5,RB,71,205,False,was,sfo,False,3-4,False,6,15,11,26,16:15,Sunday,outdoors,grass,50,83,,0,23,8,21,16,29,80,1,0,0,0,0,1
+RandAn00,Antwaan Randle El,10.6,WR,70,192,False,was,sfo,False,3-4,False,6,15,11,26,16:15,Sunday,outdoors,grass,50,83,,0,23,8,21,16,0,0,0,7,3,16,1,0
+ThraJa00,James Thrash,1.8,WR,72,200,False,was,sfo,False,3-4,False,6,15,11,26,16:15,Sunday,outdoors,grass,50,83,,0,23,8,21,16,0,0,0,1,1,8,0,0

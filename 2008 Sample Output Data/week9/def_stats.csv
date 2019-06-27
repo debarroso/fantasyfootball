@@ -1,0 +1,29 @@
+team,opp,opp_pts,opp_pass_yards,opp_rush_yards,def_align,after_bye,dline_pass,dline_rush,opp_oline_pass,opp_oline_rush,gametime,gameday,roof,surface,temp,rel_hum,wind,wind_chill,def_pass_rank,def_rush_rank,opp_pass_rank,opp_rush_rank,sacks,forced_fumbles,interceptions,tds,tackles,time_onfield
+crd,ram,13,170,61,4-3,False,24,17,23,29,13:00,Sunday,dome,fieldturf,,,,,26,13,26,25,3.0,2,2,1,89,21.366666666666667
+atl,rai,0,10,67,4-3,False,10,19,30,25,16:15,Sunday,outdoors,grass,63,74,,0,17,25,32,10,6.0,2,1,0,83,14.75
+rav,cle,27,210,64,3-4,False,15,1,7,22,13:02,Sunday,outdoors,grass,55,73,,0,2,1,31,26,3.0,1,1,1,93,26.25
+buf,nyj,26,201,96,4-3,False,28,8,19,2,13:02,Sunday,outdoors,astroplay,49,50,,0,22,21,16,9,5.0,2,3,2,75,29.933333333333334
+chi,det,23,280,53,4-3,True,27,2,32,31,13:02,Sunday,outdoors,grass,60,65,,0,9,5,24,30,2.0,2,3,0,100,32.15
+cin,jax,19,214,68,4-3,False,31,12,24,12,13:02,Sunday,outdoors,fieldturf,66,58,,0,19,8,15,18,5.0,1,2,1,77,29.683333333333334
+cle,rav,37,236,193,3-4,False,30,31,20,16,13:02,Sunday,outdoors,grass,55,73,,0,16,23,28,4,3.0,1,1,1,93,33.75
+dal,nyg,35,119,200,3-4,False,1,14,10,4,16:15,Sunday,outdoors,fieldturf,48,36,6,,11,14,18,1,7.0,3,4,1,96,34.21666666666667
+den,mia,26,266,75,4-3,True,19,23,12,11,16:05,Sunday,outdoors,grass,77,14,,0,31,29,10,11,4.0,0,4,1,79,36.53333333333333
+det,chi,27,166,154,4-3,False,11,29,11,24,13:02,Sunday,outdoors,grass,60,65,,0,32,31,21,24,2.0,2,3,0,100,27.85
+gnb,oti,19,169,178,4-3,True,21,28,3,20,13:02,Sunday,outdoors,grass,69,38,,,7,27,27,7,6.0,1,1,0,101,31.35
+htx,min,28,168,177,4-3,False,23,30,28,17,13:05,Sunday,dome,fieldturf,,,,,25,30,25,5,8.0,2,3,1,87,27.633333333333333
+clt,nwe,15,202,140,4-3,False,22,21,26,3,20:23,Sunday,retractable roof (open),fieldturf,,,,,12,18,12,6,0.0,1,1,0,97,34.4
+jax,cin,21,153,159,4-3,False,14,9,27,32,13:02,Sunday,outdoors,fieldturf,66,58,,0,29,9,30,29,5.0,1,2,1,77,30.316666666666666
+kan,tam,30,342,81,4-3,False,32,26,18,21,13:03,Sunday,outdoors,grass,69,61,,0,28,26,11,15,1.0,4,1,0,103,32.28333333333333
+ram,crd,34,334,176,4-3,False,16,32,8,30,13:00,Sunday,dome,fieldturf,,,,,27,32,2,32,3.0,2,2,1,89,38.63333333333333
+mia,den,17,305,14,3-4,False,13,13,4,1,16:05,Sunday,outdoors,grass,77,14,,0,15,19,3,12,4.0,0,4,1,79,23.466666666666665
+min,htx,21,327,62,4-3,True,2,4,16,10,13:05,Sunday,dome,fieldturf,,,,,5,4,4,13,8.0,2,3,1,87,32.36666666666667
+nwe,clt,18,254,47,3-4,False,17,16,1,23,20:23,Sunday,retractable roof (open),fieldturf,,,,,24,11,5,31,0.0,1,1,0,97,25.6
+nyg,dal,14,102,81,4-3,False,8,3,13,18,16:15,Sunday,outdoors,fieldturf,48,36,6,,10,12,9,21,7.0,3,4,1,96,25.783333333333335
+nyj,buf,17,262,30,3-4,False,12,10,25,14,13:02,Sunday,outdoors,astroplay,49,50,,0,18,7,22,14,5.0,2,3,2,75,30.066666666666666
+rai,atl,24,201,252,4-3,False,6,27,5,9,16:15,Sunday,outdoors,grass,63,74,,0,13,28,14,2,6.0,2,1,0,83,45.25
+phi,sea,7,147,86,4-3,False,4,5,22,27,16:16,Sunday,outdoors,fieldturf,58,71,,0,3,3,29,19,5.0,1,1,0,90,22.75
+pit,was,6,161,60,3-4,False,3,7,15,6,20:41,Monday,outdoors,grass,51,96,,0,1,2,23,8,12.0,1,3,0,86,29.283333333333335
+sea,phi,26,347,72,4-3,False,18,18,6,13,16:16,Sunday,outdoors,fieldturf,58,71,,0,30,17,6,22,5.0,1,1,0,90,37.25
+tam,kan,27,201,183,4-3,False,7,15,21,28,13:03,Sunday,outdoors,grass,69,61,,0,6,15,20,16,1.0,4,1,0,103,32.31666666666667
+oti,gnb,16,288,102,4-3,False,9,6,14,19,13:02,Sunday,outdoors,grass,69,38,,,4,6,8,17,6.0,1,1,0,101,34.05
+was,pit,23,165,64,4-3,False,29,20,29,26,20:41,Monday,outdoors,grass,51,96,,0,14,10,17,23,12.0,1,3,0,86,30.716666666666665
