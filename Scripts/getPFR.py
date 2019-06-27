@@ -103,7 +103,8 @@ def GetTeamLinks():
 | This function will create a list of team objects                                                      |
 +====================================================================================================="""
 def CreateTeamObjs(teams, year):
-    #declare list that we will be storing objects in
+
+  #declare list that we will be storing objects in
     team_obj = {}
 
     #iterate over teams and create team objects
