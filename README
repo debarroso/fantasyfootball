@@ -4,3 +4,6 @@ Using the csv files from this I imported them into a MySQL database hosted on Mi
 The main code is in getPFR.py and the other files were mainly used to manipulate data following database design.
 Going forward the goal for this project is to apply ML models to be able to predict player performances and destroy my friends
 in my fantasy football league. Bragging rights are invaluable.
+
+Added via the latest commit is the source code for a Java web app using the Spring MVC framework that was submitted as my final project
+in CS 564 at UW Madison.
